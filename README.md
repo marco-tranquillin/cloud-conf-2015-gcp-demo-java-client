@@ -1,6 +1,8 @@
-** Cloud Conf 2015 - Google Cloud Platform (GCP) Demo **
+**Cloud Conf 2015 - Google Cloud Platform (GCP) Demo**
 
-## Google Cloud Platform Demo - "Scaling with no pains - Exceed limits using GCP"
+## Google Cloud Platform Demo
+
+"Scaling with no pains - Exceed limits using GCP"
 
 This is the client code that has to be executed by GCE machine in order to push messages to Google Cloud Pub/Sub.
 
