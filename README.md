@@ -4,7 +4,7 @@
 
 **Scaling with no pains - Exceed limits using GCP**
 
-This is the client code that has to be executed by GCE machine in order to push messages to Google Cloud Pub/Sub.
+This is the client code that has to be executed by GCE machines in order to push messages to Google Cloud Pub/Sub.
 
 #Disclaimer
 
